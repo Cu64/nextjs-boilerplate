@@ -1,11 +1,7 @@
 @import '~tailwindcss/base';
 @import '~tailwindcss/components';
-
-/* purgecss start ignore */
-/* purgecss end ignore */
+@import '~tailwindcss/utilities';
+@import '~tailwindcss/screens';
 
 /* site specific */
 /* end site specific */
-
-@import '~tailwindcss/utilities';
-@import '~tailwindcss/screens';
